@@ -1,0 +1,15 @@
+{
+  "diff": true,
+  "extension": [
+    "ts"
+  ],
+  "package": "./package.json",
+  "require": [
+    "ts-node/register",
+    "source-map-support/register"
+  ],
+  "reporter": "spec",
+  "slow": 75,
+  "timeout": 2000,
+  "ui": "bdd"
+}

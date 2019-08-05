@@ -96,4 +96,4 @@ if (cluster.isMaster) {
   }
 }
 
-module.exports = app;
+export default app;

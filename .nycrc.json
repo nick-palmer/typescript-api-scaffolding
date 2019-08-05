@@ -1,0 +1,24 @@
+{
+  "nyc": {  
+    "all": true,
+    "include": [
+      "src/**/*.ts"
+    ],
+    "extension": [
+        ".ts",
+        ".tsx"
+    ],
+    "require": [
+      "ts-node/register"
+    ],
+    "exclude": [
+        "./test/**/*.ts"
+    ],
+    "extends": "@istanbuljs/nyc-config-typescript",
+    "reporter": [
+      "lcov"
+    ],
+    "sourceMap": true,
+    "instrument": true
+  }
+}
