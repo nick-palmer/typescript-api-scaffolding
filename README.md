@@ -1,5 +1,6 @@
 # Typescript API Scaffolding
 
+[![Build Status](https://travis-ci.org/nick-palmer/typescript-api-scaffolding.svg?branch=master)](https://travis-ci.org/nick-palmer/typescript-api-scaffolding)
 [![Coverage Status](https://coveralls.io/repos/github/nick-palmer/typescript-api-scaffolding/badge.svg?branch=master)](https://coveralls.io/github/nick-palmer/typescript-api-scaffolding?branch=master)
 
 
