@@ -10,7 +10,8 @@
     "start": "node ./dist/app.js",
     "start:watch": "nodemon",
     "test": "mocha -r ts-node/register test/**/*",
-    "coverage": "nyc mocha -r ts-node/register test/**/*"
+    "coverage": "nyc mocha -r ts-node/register test/**/*",
+    "coveralls": "cat ./coverage/lcov.info | node node_modules/.bin/coveralls"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
