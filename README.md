@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/nick-palmer/typescript-api-scaffolding.svg?branch=master)](https://travis-ci.org/nick-palmer/typescript-api-scaffolding)
 [![Coverage Status](https://coveralls.io/repos/github/nick-palmer/typescript-api-scaffolding/badge.svg?branch=master)](https://coveralls.io/github/nick-palmer/typescript-api-scaffolding?branch=master)
-[![Known Vulnerabilities](https://snyk.io/test/github/nick-palmer/typescript-api-scaffolding
-/badge.svg)](https://snyk.io/test/github/nick-palmer/typescript-api-scaffolding)
+[![Known Vulnerabilities](https://snyk.io/test/github/nick-palmer/typescript-api-scaffolding/badge.svg)](https://snyk.io/test/github/nick-palmer/typescript-api-scaffolding)
 
 
 This project is meant to have all the necessary frameworks and boiler plate code in place to quickly create a RESTful API with [NodeJS](https://nodejs.org/en/about/), [Express](https://www.npmjs.com/package/express), and [Typescript](https://www.typescriptlang.org/).
