@@ -15,9 +15,9 @@
     "coveralls2": "nyc report --reporter=text-lcov | coveralls"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "~4.21.2",
     "fs-extra": "^7.0.1",
     "hbs": "^4.0.4",
     "http-errors": "~1.6.2",
